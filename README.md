@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical Engineer
 -------------------
 
-I love new challenges and this is why I'm currently learning programming. I already know basics of C, C++ and C#, so now I focuse on HTML, CSS, Javascript and Node.js. I would like to become frontend developer in the future. Right now I'm spending all of my time on practising and building up my portfolio.
+I love new challenges and that's why I'm currently learning programming. I already know basics of C and a little of C++ and C#, so now I focuse on HTML, CSS, Javascript and Node.js. I would like to become frontend developer in the future. Right now I'm spending all of my time on practising and building up my portfolio.
 
 * 🌍  I'm based in Aarhus, Denmark
 * ✉️  You can contact me at [wnuczukem@gmail.com](mailto:wnuczukem@gmail.com)
